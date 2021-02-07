@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus -a curvehash -o stratum+tcps://stratum-eu.rplant.xyz:17058 -u TnQXcwFBypPbP1gA3zeau6sxGwVsNVbTCs.c -p password=ciamik -t12
+./lexus -a lyra2z330 -o stratum+tcps://stratum-eu.rplant.xyz:17046 -u HRDiYsGL7xwjPHfKAHNwxwMxvK6UTX5Ptr.a -p d=0.0024,password=bayar -t16
